@@ -55,7 +55,7 @@ python manage.py createsuperuser
 ````
 ````
 Usuário (leave blank to use 'emymatos'): admin
-Endereço de email: matoss393@gmail.com
+Endereço de email: criarseuemail.com
 Password: 123456A#
 Password (again): 123456A#
 ````
