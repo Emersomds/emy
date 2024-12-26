@@ -54,7 +54,7 @@ Criar um super usuário.
 python manage.py createsuperuser
 ````
 ````
-Usuário (leave blank to use 'emymatos'): admin
+Usuário (leave blank to use 'username'): admin
 Endereço de email: criarseuemail.com
 Password: 123456A#
 Password (again): 123456A#
